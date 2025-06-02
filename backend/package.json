@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
@@ -8,6 +11,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.14.1",
     "moongoose": "^0.0.5",
-    "uuid": "^11.1.0"
+    "uuid": "^11.1.0",
+    "xlsx": "^0.18.5"
   }
 }
